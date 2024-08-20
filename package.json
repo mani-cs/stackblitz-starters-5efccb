@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "ag-grid-community": "^32.1.0",
+    "dayjs": "^1.11.13",
+    "numeral": "^2.0.6",
+    "servor": "^4.0.2"
+  }
+}
